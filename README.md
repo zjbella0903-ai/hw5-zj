@@ -26,4 +26,4 @@ The skill is easy to trigger because the name and description are specific. The 
 This skill only supports CSV files, not Excel files or databases. It also checks structural quality only, not domain-specific correctness. A readable CSV may still contain semantic errors that this skill cannot detect.
 
 ## Demo video
-[Paste your video link here]
+https://youtu.be/YhTOK-kLI_A
